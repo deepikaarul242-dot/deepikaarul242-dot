@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arul Mozhi</h1>
+<h1 align="center">Hi 👋, I'm Deepika V</h1>
 
 <h3 align="center">
 Embedded Systems Engineer | IoT Developer | Electronics & Communication Engineering Student
